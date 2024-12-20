@@ -1,0 +1,7 @@
+Welcome to the Java Demo Script!
+Enter your name: Alice
+Hello, Alice!
+Enter the first number: 5
+Enter the second number: 10
+The sum of 5 and 10 is 15.
+Thank you for using the Java Demo Script!
